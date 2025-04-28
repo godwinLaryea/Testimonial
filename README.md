@@ -7,6 +7,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Mobile-First Approach
 
 ## Author
 - Frontend Mentor - [@godwinLaryea](https://www.frontendmentor.io/profile/godwinLaryea)
